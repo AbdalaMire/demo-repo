@@ -1,3 +1,3 @@
 # demo
 
-some description for git and githup tutorial
+some description for git and githup tutorial!
